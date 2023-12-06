@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.amigoscode.global.controllers.CustomerControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.14 s -- in com.amigoscode.global.controllers.CustomerControllerTest

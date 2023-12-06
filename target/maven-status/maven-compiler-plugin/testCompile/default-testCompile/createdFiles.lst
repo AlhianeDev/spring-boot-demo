@@ -1,0 +1,5 @@
+com\amigoscode\global\services\CustomerServiceTest.class
+com\amigoscode\global\controllers\CustomerControllerTest.class
+com\amigoscode\global\DemoApplicationTests$Calculator.class
+com\amigoscode\global\DemoApplicationTests.class
+com\amigoscode\global\Repositories\CustomerRepoTest.class
